@@ -1,0 +1,14 @@
+python -m venv project_env
+
+where python
+
+- activate the virtual environment by running the activate.bat file in the project_env/Scripts directory:
+project_env\Scripts\activate
+
+
+- To deactivate the virtual environment, you can run the deactivate command:
+
+deactivate
+
+
+The link: https://www.pythontutorial.net/python-basics/python-virtual-environments/
